@@ -1,0 +1,26 @@
+h1 {
+    color: hotpink;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+.recipes {
+    color: rgb(37, 193, 190);
+    font-size: 18px;
+    list-style-type: square;
+}
+
+h2 {
+    color: blue;
+}
+
+a {
+    border: solid;
+}
+
+.backlink {
+    text-align: center;
+}
